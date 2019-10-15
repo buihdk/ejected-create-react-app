@@ -1,4 +1,6 @@
-This project was created by Facebook's [Create React App](https://github.com/facebook/create-react-app) and `yarn run eject` command.
+This template project was created by Facebook's [Create React App](https://github.com/facebook/create-react-app) and `yarn run eject` command. 
+
+I realize that whenever I ejected a react app made using `create-react-app`, I had to spend a few hours cleaning up folders and files after ejection. This template is created to speed up this process.
 
 Steps that I did:
 * `npx create-react-app ejected-create-react-app`
