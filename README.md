@@ -6,7 +6,8 @@ Steps that I did:
 * `npx create-react-app ejected-create-react-app`
 * `cd ejected-create-react-app`
 * `yarn run eject` (choose `y`)
-* transfer eslint, jest, babel, and browserslist configs to their own separate files from `package.json` file
+* transfer `eslint`, `jest`, `babel`, and `browserslist` configs to their own separate files from `package.json` file
+* add `.prettierrc` and `react-hot-loader`
 * clean up `config` and `scripts` folders based on eslint
 * reduce runtime dependencies by moving modules that are required only during development to `devDependencies` in `package.json`
 
